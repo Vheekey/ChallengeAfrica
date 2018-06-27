@@ -1,2 +1,1 @@
-# ChallengeAfrica
-Pixel Art Maker
+https://github.com/Vheekey/ChallengeAfrica/blob/master/README.md
